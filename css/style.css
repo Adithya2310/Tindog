@@ -5,11 +5,24 @@
   animation: gradient-animation 18s ease infinite;
 }
 
+.nav-elem{
+  color: aliceblue;
+}
+
+.nav-elem:hover{
+  color: rgb(186, 189, 191);
+}
+
+.nav-header{
+  color: aliceblue;
+}
+
 .hero-text{
   padding-left: 10rem;
 }
 
 .title{
+  color: aliceblue;
   font-size: 5rem;
   margin: 2rem 0;
 }
